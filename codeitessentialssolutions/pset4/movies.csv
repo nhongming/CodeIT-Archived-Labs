@@ -1,0 +1,18 @@
+movie_id,title,series_id
+1,Toy Story (1995),2
+260,Star Wars: Episode IV - A New Hope (1977),5
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),5
+1210,Star Wars: Episode VI - Return of the Jedi (1983),5
+3114,Toy Story 2 (1999),2
+4993,The Lord of the Rings: The Fellowship of the Ring (2001),3
+5952,The Lord of the Rings: The Two Towers (2002),3
+7153,The Lord of the Rings: The Return of the King (2003),3
+78499,Toy Story 3 (2010),2
+89745,The Avengers (2012),1
+91500,The Hunger Games (2012),4
+106487,The Hunger Games: Catching Fire (2013),4
+116823,The Hunger Games: Mockingjay - Part 1 (2014),4
+122892,Avengers: Age of Ultron (2015),1
+122912,Avengers: Infinity War (2018),1
+122914,Avengers: Endgame (2019),1
+135133,The Hunger Games: Mockingjay - Part 2 (2015),4
